@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bpu74ard53yg1"
-path="res://.godot/imported/Build A Spacecraft.apple-touch-icon.png-20aa406bbf06e122d915d86969eef635.ctex"
+uid="uid://6fhu62w1mffv"
+path="res://.godot/imported/Build A Spacecraft.apple-touch-icon.png-6b47c37ee8716d2e3a907a4414bb8d63.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Export/Build A Spacecraft.apple-touch-icon.png"
-dest_files=["res://.godot/imported/Build A Spacecraft.apple-touch-icon.png-20aa406bbf06e122d915d86969eef635.ctex"]
+source_file="res://export2/Build A Spacecraft.apple-touch-icon.png"
+dest_files=["res://.godot/imported/Build A Spacecraft.apple-touch-icon.png-6b47c37ee8716d2e3a907a4414bb8d63.ctex"]
 
 [params]
 

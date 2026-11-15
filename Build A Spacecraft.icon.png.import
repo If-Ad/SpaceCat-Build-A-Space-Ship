@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cchs384clfydc"
-path="res://.godot/imported/Build A Spacecraft.icon.png-06860f606db0d84d860129ace07b618a.ctex"
+uid="uid://xsx2jgq3n8fq"
+path="res://.godot/imported/Build A Spacecraft.icon.png-91d42fe1ef71afb8d61e70d9f940cb01.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Export/Build A Spacecraft.icon.png"
-dest_files=["res://.godot/imported/Build A Spacecraft.icon.png-06860f606db0d84d860129ace07b618a.ctex"]
+source_file="res://export2/Build A Spacecraft.icon.png"
+dest_files=["res://.godot/imported/Build A Spacecraft.icon.png-91d42fe1ef71afb8d61e70d9f940cb01.ctex"]
 
 [params]
 
